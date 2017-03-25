@@ -1,0 +1,24 @@
+
+
+Neccessities:
+
+SQL server
+MySQLdb for Python
+HTML generator 
+
+
+SQL server:
+
+id, barcode, name, jm, kolicina, ncijena, pcijena
+
+id auto incrementing (mozda i nije potrebno)
+barcode - smallint
+name - varchar(30) (ili vise)
+jm - varchar(5)
+kolicina - smallint
+ncijena - float
+pcijena - float
+
+
+
+
